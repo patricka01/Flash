@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        .flash{
+            font-family:monospace; 
+            line-height:"1.5";
+            font-size: 16px;
+            
+        }
+         .title{   
+            font-family:monospace;
+            color: red;
+            font-style:italic;
+        }
+        .post{
+            color: red;
+        }
+        
+        .report{
+            font-weight:bold;
+            color: yellow;
+        }
+        body{
+            background-color: rgb(0, 0, 0);
+        }
+        
+        p{
+            color: yellow;
+        }
+        
+    </style>
+    <body>
+        
+        <h1 class = "title">Central City Blog</h1>
+
+        <h3 class = "report">Content</h3>
+        <ul>
+            <li class= "report">Flash is GONE!</li>
+            <li class= "report">Flash's Identity!</li>
+        </ul>
+        
+        <h2 class = "post">First post</h2>
+        <h6 class="post">Posted in year 2019</h6>
+        
+        <p class = "flash">The Flash disappears from the streets of central city. A crisis has been bestowed upon central city. After a great shine of bright light, the speedster has disappeared. Keep him in your prayers and in your thoughts as we hope our great hero reappears like he always has.</p>
+    <img src ="https://www.kasandbox.org/programming-images/cute/Star.png" width = "30" height ="42"> 
+        <p class= "flash">
+        The Flash's identity has been revealed after the incident called<em> The Bright Light.</em>Once he had gone missing people started to wonder who he was. And thaa has finally come to an end. The Central City hero known as the Flash, is none other than, the forensic science, working in CCPD, Sione Asikia. 
+        
+    <img src ="https://www.kasandbox.org/programming-images/cute/Star.png" width = "30" height ="42"> 
+        </p>
+        
+        
+    </body>
+</html>
